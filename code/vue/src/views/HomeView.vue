@@ -5,7 +5,7 @@
     <el-button type="info">信息按钮</el-button>
     <el-button type="warning">警告按钮</el-button>
     <el-button type="danger">危险按钮</el-button>
-    
+
     <div>
       <el-link href="https://element.eleme.io" target="_blank">默认链接</el-link>
       <el-link type="primary">主要链接</el-link>
