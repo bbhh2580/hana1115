@@ -1,19 +1,8 @@
 <template>
   <div class="home">
-    <el-button type="primary">主要按钮</el-button>
-    <el-button type="success">成功按钮</el-button>
-    <el-button type="info">信息按钮</el-button>
-    <el-button type="warning">警告按钮</el-button>
-    <el-button type="danger">危险按钮</el-button>
-
-    <div>
-      <el-link href="https://element.eleme.io" target="_blank">默认链接</el-link>
-      <el-link type="primary">主要链接</el-link>
-      <el-link type="success">成功链接</el-link>
-      <el-link type="warning">警告链接</el-link>
-      <el-link type="danger">危险链接</el-link>
-      <el-link type="info">信息链接</el-link>
-    </div>
+    <div><span style="color: #4966dc;font-weight: bold">日本語勉強</span>JLPT必勝</div>
+    <div style="margin-top: 10px;color: #4966dc;font-weight: bold">勉強頑張れ</div>
+    <div style="margin-top: 10px;">お願い</div>
   </div>
 </template>
 

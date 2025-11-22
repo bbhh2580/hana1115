@@ -1,0 +1,10 @@
+/* デフォルト「default」のスタイルを消す */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* 全ての要素をbox-sizing:border-boxに設定する */
+*{
+    box-sizing: border-box;
+}
