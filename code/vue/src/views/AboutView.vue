@@ -36,20 +36,20 @@ export default {
     return {
       tableData: [{
         date: '2016-05-02',
-        name: '王小虎',
-        address: '上海市普陀区金沙江路 1518 弄'
+        name: '山田',
+        address: '東京都渋谷区恵比寿南2丁目'
       }, {
         date: '2016-05-04',
-        name: '王小虎',
-        address: '上海市普陀区金沙江路 1517 弄'
+        name: '荻田',
+        address: '東京都世田谷区三軒茶屋2丁目'
       }, {
         date: '2016-05-01',
-        name: '王小虎',
-        address: '上海市普陀区金沙江路 1519 弄'
+        name: '山本',
+        address: '東京都杉並区高円寺北4丁目11番3号'
       }, {
         date: '2016-05-03',
-        name: '王小虎',
-        address: '上海市普陀区金沙江路 1516 弄'
+        name: '奥野',
+        address: '東京都新宿区西新宿3丁目'
       }]
     }
   }
